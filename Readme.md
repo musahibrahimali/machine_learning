@@ -290,7 +290,7 @@ If you are interested in more machine learning and deep learning resources, you 
     author = "Musah Ibrahim Ali",
     journal = "GitHub",
     year = "2025",
-    url = "https://github.com/musahibrahimali/machine_learning_complete",
+    url = "https://github.com/musahibrahimali/machine_learning",
 }
 ```
 ******
