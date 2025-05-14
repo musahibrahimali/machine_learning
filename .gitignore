@@ -6,3 +6,4 @@
 
 # other files to ignore
 .DS_Store
+.venv/
