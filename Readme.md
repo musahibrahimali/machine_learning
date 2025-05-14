@@ -17,22 +17,6 @@
 
 All notebooks were created with the readers in mind. Every notebook starts with a high-level overview of any specific algorithm/concept being covered. Wherever possible, visuals are used to make things clear.
 
-*******
-
-## What's New 🔥
-
-*  May 10th, 2023: Added a [comprehensive guide on MLOps](https://github.com/Nyandwi/machine_learning_complete/blob/main/010_mlops/1_mlops_guide.md). Enjoy the guide!!
-
-* June 23th, 2022: Many people have asked how they can support the package. You can buy us a [coffee ☕️](https://www.buymeacoffee.com/jeande)
-
-* May 18th, 2022: Complete Machine Learning Package is now available on [web](https://nyandwi.com/machine_learning_complete/). It's now easy to view all notebooks!
-
-* April 9th, 2022: Updated [Transfer Learning with Pretrained Convolutional Neural Networks](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/3_transfer_learning_convnets.ipynb) with additional things and added further resources.
-
-* November 25th, 2021: Updated [Fundamentals of Machine Learning](https://github.com/Nyandwi/machine_learning_complete/blob/main/5_intro_to_machine_learning/ml_fundamentals.md): Added introductory notes, ML system design workflow, and challenges of learning systems.
-
-*******
-
 ## Tools Overview
 
 The following are the tools that are covered in Complete Machine Learning Package. They are popular tools that most machine learning engineers and data scientists need in one way or another and day to day. 
